@@ -9,14 +9,11 @@ soroban_token_contract.wasm
 
 # Editor/IDE files
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
 
 # Environment files
-.env
-.env.*
 
 # OS files
 .DS_Store
@@ -26,3 +23,5 @@ target/
 .soroban/
 .stellar/
 test_snapshots/
+config.bat
+node_modules
